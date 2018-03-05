@@ -1,0 +1,1 @@
+This is a Spring Boot Application to upload the image in the Amazon AWS s3 Bucket.
